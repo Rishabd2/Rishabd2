@@ -27,4 +27,4 @@ Public GitHub activity is thin. Most recent code is private veterinary clinical 
 - LinkedIn: [rishab-doshi](https://www.linkedin.com/in/rishab-doshi/)
 - X: [@rishabdoshi88](https://x.com/rishabdoshi88)
 
-Champaign, IL
+San Francisco, California
