@@ -8,14 +8,9 @@ I build benchmarks and evaluations in healthcare. The work sits in One Health an
 
 **[fake-reviews-analysis](https://github.com/Rishabd2/fake-reviews-analysis)** (MIT). Truthful vs crowdsourced-fake Chicago hotel reviews on Ott et al.'s 1,600-review Deceptive Opinion Spam Corpus. Random Forest on n-grams and lexicon features: 90.3% test accuracy in the saved notebook, vs Ott's 87% baseline. First-person singular pronouns are the clearest linguistic split. Also writes a second fake class with GPT-4o-mini. A three-way LLM-fake detector was planned and not finished. Ott corpus is CC BY-NC-SA 3.0 and is not in the repo.
 
-## Public work in progress
+**[spotify-running-physiology](https://github.com/Rishabd2/spotify-running-physiology)** (MIT). Spotify pop-feature study on a 2011–2022 Web API pull (1,064 rows, 821 unique IDs). Danceability–valence r = 0.42; energy OLS R² = 0.72. Includes the CS 410 milestone and a HarmoniAI pitch/ffmpeg edit. No Apple Watch export was found, so there is no tempo–heart-rate result. The Watch join is documented as a recipe only.
 
-Links go here as each repo lands. These two are not public yet.
-
-| Repo | What it is | Status |
-| --- | --- | --- |
-| [hft-maker-taker](https://github.com/Rishabd2/hft-maker-taker) | Maker, taker, and inventory strategies from FIN556 | forthcoming |
-| [spotify-running-physiology](https://github.com/Rishabd2/spotify-running-physiology) | Spotify listening data against running and wearable physiology | forthcoming |
+**[hft-maker-taker](https://github.com/Rishabd2/hft-maker-taker)** (MIT). FIN556 taker on order-book imbalance and a maker that skews quotes with inventory. On IEX DEEP in StrategyStudio, both lost money. This repo is the Python logic from that course, not a stand-in for those backtests.
 
 ## Already here
 
