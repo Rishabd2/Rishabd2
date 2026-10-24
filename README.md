@@ -2,16 +2,19 @@
 
 I build benchmarks and evaluations in healthcare. The work sits in One Health and medicine. Current focus is translational oncology: methods, evals, and tools other people can rerun.
 
+## Selected work
+
+**[prairielearn-er-diagram](https://github.com/Rishabd2/prairielearn-er-diagram)** (MIT). PrairieLearn element for drawing and grading Chen-style ER diagrams. Students edit on a canvas or in JSON. Sample question: Student / Course / Enrolls. Drop `elements/pl-er-diagram-builder/` into a course. CS 498 coursework, not an official PrairieLearn org project.
+
 ## Public work in progress
 
-These four projects are being cleaned up and published. Links go here as each repo lands.
+Links go here as each repo lands. These three are not public yet.
 
 | Repo | What it is | Status |
 | --- | --- | --- |
 | [hft-maker-taker](https://github.com/Rishabd2/hft-maker-taker) | Maker, taker, and inventory strategies from FIN556 | forthcoming |
 | [fake-reviews-analysis](https://github.com/Rishabd2/fake-reviews-analysis) | Detecting deceptive / LLM-written reviews | forthcoming |
 | [spotify-running-physiology](https://github.com/Rishabd2/spotify-running-physiology) | Spotify listening data against running and wearable physiology | forthcoming |
-| [prairielearn-er-diagram](https://github.com/Rishabd2/prairielearn-er-diagram) | PrairieLearn element for student ER diagrams | forthcoming |
 
 ## Already here
 
