@@ -1,6 +1,6 @@
 # Rishab Doshi
 
-I build benchmarks and evaluations in healthcare. The work sits in One Health and medicine. Current focus is translational oncology: methods, evals, and tools other people can rerun.
+I build healthcare benchmarks and evaluations. Working in translational oncology, support One Health.
 
 ## Selected work
 
